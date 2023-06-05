@@ -1,0 +1,11 @@
+{
+  "name": "netlify-tryouts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JohannesMerz/netlify-tryouts.git",
+  "author": "JohannesMerz <johannes@bojagi.io>",
+  "license": "MIT",
+  "scripts": {
+    "build": "cp -r src/public dist"
+  }
+}
